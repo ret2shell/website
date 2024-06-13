@@ -1,0 +1,1 @@
+import{s as n,D as i,m as c,j as o,l as p,r as d,t as g}from"./index-D-4Ec2E9.js";var f=g("<div><div class=tag-content><span>");function u(a){const[s,t]=n(a,["children","level"]);return(()=>{var e=f(),r=e.firstChild,l=r.firstChild;return i(e,c(t,{get class(){return`tag ${t.class}`}}),!1,!0),o(r,()=>s.children,null),p(()=>d(l,`tag-dot bg-${s.level}`)),e})()}export{u as T};

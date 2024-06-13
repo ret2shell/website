@@ -1,0 +1,1 @@
+import{j as i,k as l,t as s}from"./index-D-4Ec2E9.js";var n=s('<div class="flex-1 flex flex-col items-center justify-center space-y-8 opacity-60"><span class="icon-[fluent--book-20-regular] w-24 h-24"></span><span>');function c(){return(()=>{var e=n(),t=e.firstChild,a=t.nextSibling;return i(a,()=>l("wiki.selectWikiToRead")),e})()}export{c as default};

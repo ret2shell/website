@@ -1,0 +1,1 @@
+import{k as e}from"./use-environment-context-C2cuRCHg.js";const[t,r]=e({hookName:"useEnvironmentContext",providerName:"<EnvironmentProvider />",strict:!1,defaultValue:()=>({dir:"ltr",locale:"en-US"})});export{r as u};

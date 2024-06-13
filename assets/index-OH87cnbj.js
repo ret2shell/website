@@ -1,0 +1,1 @@
+import{p as e,T as a}from"./header-C4_4FixI.js";import{e as r,k as t}from"./index-D-4Ec2E9.js";function n(){return r(a,{get title(){return`${t("admin.media.title")} - ${e.config.name||t("platform.name")}`}})}export{n as default};

@@ -1,0 +1,1 @@
+import{p as e,T as r}from"./header-C4_4FixI.js";import{e as a,k as t}from"./index-D-4Ec2E9.js";function m(){return a(r,{get title(){return`${t("admin.sync.title")} - ${e.config.name||t("platform.name")}`}})}export{m as default};
