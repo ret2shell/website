@@ -1,0 +1,1 @@
+import{p as e,T as r}from"./header-C2rgC6oY.js";import{e as a,k as t}from"./index-DHCM5LJk.js";function m(){return a(r,{get title(){return`${t("admin.users.title")} - ${e.config.name||t("platform.name")}`}})}export{m as default};

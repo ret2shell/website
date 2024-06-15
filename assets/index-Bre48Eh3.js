@@ -1,1 +1,0 @@
-import{p as e,T as o}from"./header-C4_4FixI.js";import{e as r,k as t}from"./index-D-4Ec2E9.js";function m(){return r(o,{get title(){return`${t("admin.logs.title")} - ${e.config.name||t("platform.name")}`}})}export{m as default};

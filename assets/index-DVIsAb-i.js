@@ -1,1 +1,0 @@
-import{p as e,T as a}from"./header-C4_4FixI.js";import{e as o,k as t}from"./index-D-4Ec2E9.js";function m(){return o(a,{get title(){return`${t("admin.oauth.title")} - ${e.config.name||t("platform.name")}`}})}export{m as default};

@@ -1,0 +1,1 @@
+import{S as t}from"./sidebar-layout-DmqsIU0T.js";import{e}from"./index-DHCM5LJk.js";import"./index-CcaEcIBT.js";import"./index-mQdWiL7h.js";function l(r){return e(t,{leftBar:null,get children(){return r.children}})}export{l as default};

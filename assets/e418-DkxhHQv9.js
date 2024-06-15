@@ -1,0 +1,1 @@
+import{p as o,T as e}from"./header-C2rgC6oY.js";import{e as r,k as t}from"./index-DHCM5LJk.js";import{E as a}from"./error-C_T9XQih.js";import"./xdsec-mascot-crying-CYXT9wEg.js";import"./xdsec-mascot-unsee-DC4zWBPN.js";function f(){return[r(e,{get title(){return`${t("errors.418")} - ${o.config.name||t("platform.name")}`}}),r(a,{status:418})]}export{f as default};

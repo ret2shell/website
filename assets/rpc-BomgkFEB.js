@@ -1,0 +1,1 @@
+import{d as r,e as a}from"./index-DzhbeeeD.js";function i(t,n){return e=>e?.length&&e.length>t?n:""}async function c(t){return(await r.get(`${a}/rpc/string/deunicode`,{searchParams:JSON.parse(JSON.stringify({text:t}))})).text()}async function o(t){return(await r.get(`${a}/rpc/string/leet`,{searchParams:JSON.parse(JSON.stringify({text:t}))})).text()}export{c as d,o as l,i as m};

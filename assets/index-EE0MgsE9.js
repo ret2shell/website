@@ -1,0 +1,1 @@
+import{p as e,T as a}from"./header-C2rgC6oY.js";import{e as r,k as t}from"./index-DHCM5LJk.js";function m(){return r(a,{get title(){return`${t("admin.captcha.title")} - ${e.config.name||t("platform.name")}`}})}export{m as default};
